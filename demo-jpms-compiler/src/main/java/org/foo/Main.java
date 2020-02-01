@@ -1,4 +1,4 @@
-package org.foo.generated;
+package org.foo;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -14,8 +14,6 @@ import javax.tools.JavaFileManager;
 import javax.tools.JavaFileObject;
 import javax.tools.StandardJavaFileManager;
 import javax.tools.ToolProvider;
-
-import org.foo.JavaSourceFromString;
 
 
 
